@@ -2,9 +2,9 @@
 Reproduction of the TSF-SOU sound pcb. **This board is currently untested, will update when fully tested.** The rest of the documentation will be added when I fully test. Use at your own risk.
 
 ## Board Picture
-Images/BoardPicture.png
+![20230625_191053.jpg](Board Picture)
 ## Board Renders
 ### Front of the board
-Images/BoardFront.png
+![BoardFront.png](Front Render)
 ### Back of the board
-Images/BoardBack.png
+![BoardBack.png](Back Render)
